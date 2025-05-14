@@ -3,8 +3,8 @@
 Contributors: treeflips, zeroneit
 Tags: lightbox, jquery lightbox, jquery, gallery, image, lightbox images, image lightbox, lightbox gallery, lightbox image, lightbox popup, featherlight, photo gallery, popup image, popup images, popup lightbox, responsive lightbox, swipe, wordpress image lightbox, wordpress lightbox, wordpress slideshow lightbox, photography, images, minimal, responsive, photo, photos  
 Requires at least: 4.0  
-Tested up to: 6.4.2
-Stable tag: 1.0.3
+Tested up to: 6.8
+Stable tag: 1.0.4
 Donate link: https://www.paypal.me/wpjohnny
 License: GPL-2.0+  
 
@@ -59,7 +59,7 @@ Plugin has no GUI options. Some handy filters are available to modify default be
 4. Group multiple images as a gallery by adding "gallery" class into wrapper element.
 
 == Changelog ==
-= 1.0.3 =
+= 1.0.4 =
 
 Plugin was tested in latest WP 6.4.2 and description was updated. More screenshots were added to help customers with the images configuration.
 

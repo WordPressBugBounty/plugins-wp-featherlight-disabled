@@ -4,7 +4,7 @@
  * Plugin URI:   https://wpjohnny.com/wp-featherlight-disabled/
  * Description:  An ultra lightweight jQuery lightbox for WordPress images and galleries.
  * Donate link: https://www.paypal.me/wpjohnny
- * Version:      1.0.3
+ * Version:      1.0.4
  * Author: <a href="https://wpjohnny.com">WPJohnny</a>, <a href="https://profiles.wordpress.org/zeroneit/">zerOneIT</a>
  * License:      GPL-2.0+
  * License URI:  http://www.gnu.org/licenses/gpl-2.0.html
